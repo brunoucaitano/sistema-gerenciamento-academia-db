@@ -1,4 +1,4 @@
-
+--
 CREATE TABLE Aluno (
     CPF_Aluno VARCHAR(11) PRIMARY KEY, -- [cite: 566]
     Nome VARCHAR(300) NOT NULL,
